@@ -1,0 +1,2 @@
+# Ignore Django SECRET_KEY:
+secret_key.txt
