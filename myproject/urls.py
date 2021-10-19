@@ -20,6 +20,6 @@ from django.urls import path, include
 from boards import views
 
 urlpatterns = [
+    path('', include('boards.urls')),
     path('admin/', admin.site.urls),
-    path('', include('boards.urls'))
 ]
