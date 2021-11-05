@@ -1,2 +1,3 @@
-# Ignore Django SECRET_KEY:
-secret_key.env
+# Ignored files
+.env
+__pycache__
