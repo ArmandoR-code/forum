@@ -1,3 +1,4 @@
 # Ignored files
 .env
 __pycache__
+keyring_app.py
